@@ -12,8 +12,8 @@ body {
 .button{
     color: var(--color4);
     border: 1px solid var(--color4);
-    width: 100px;
-    height: 90px;
+    width: 90px;
+    height: 80px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
     text-align: center;
@@ -45,7 +45,7 @@ body {
 .calcDisplay {
     background-color: var(--color2);
     border: 2px solid var(--color4);
-    width: 386px;
+    width: 347px;
     height: 100px;
     padding-right: 10px;
     font-family: Arial, Helvetica, sans-serif;
